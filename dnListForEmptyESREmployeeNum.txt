@@ -1,5 +1,0 @@
-cn=bull,ou=ESR,ou=Active,ou=Users,o=trustiv
-cn=jonel,ou=ESR,ou=Active,ou=Users,o=trustiv
-cn=parmj99,ou=ESR,ou=Active,ou=Users,o=trustiv
-cn=summl98,ou=ESR,ou=Active,ou=Users,o=trustiv
-cn=teese,ou=ESR,ou=Active,ou=Users,o=trustiv
